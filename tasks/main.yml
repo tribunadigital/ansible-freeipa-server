@@ -32,5 +32,3 @@
 - include_tasks: preinst.yml
 
 - include_tasks: freeipa-server-install.yml
-
-- include_tasks: postinst.yml
